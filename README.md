@@ -23,6 +23,7 @@ Analyze how different **event categories** (e.g., *Sport & cultural*) relate to 
   - **Event impact ranking** (avg congestion + % change vs baseline)
   - optional **Time-based impact** (only when time window = **full day**)
   - suggested actions and a short methodology appendix
+  - a **summary section shown directly in the dashboard UI**, plus a downloadable full HTML report
 
 ## 🏗️ System architecture
 
@@ -62,23 +63,72 @@ pip install -r requirements.txt
 
 ## ▶️ How to run
 
+### 🖥️ Run locally (developer setup)
+
 You need **two terminals** (API + dashboard) and one browser tab.
 
-### Start the API (FastAPI)
+1. **Start the API (FastAPI)**
 
-```bash
-cd Traffic-Predictor
-uvicorn main:app --reload
-```
+   ```bash
+   cd Traffic-Predictor
+   uvicorn main:app --reload
+   ```
 
-### Start the dashboard (Shiny)
+2. **Start the dashboard (Shiny)**
 
-```bash
-cd Traffic-Predictor
-python app.py
-```
+   ```bash
+   cd Traffic-Predictor
+   python app.py
+   ```
 
-Open the app at `http://127.0.0.1:8001`.
+3. **Open the app locally**
+
+   - Go to `http://127.0.0.1:8001`
+
+### 🌐 Use the hosted app (public URL)
+
+The same dashboard is deployed at:
+
+- `https://traffic-predictor-suwfj.ondigitalocean.app/`
+
+From there you can run new analyses without setting up Python locally. The hosted dashboard talks to the FastAPI and Supabase in the background.
+
+### 🌐 DigitalOcean App Platform (two-component setup)
+
+When deploying to DigitalOcean App Platform, use **two components** in the same App:
+
+1. **API component (FastAPI)**
+   - **Run command**
+
+     ```bash
+     uvicorn main:app --host 0.0.0.0 --port 8000
+     ```
+
+   - **Spec hint (YAML)**: expose the internal port
+
+     ```yaml
+     services:
+       - name: traffic-predictor-api
+         internal_ports:
+           - 8000
+     ```
+
+   - **Env vars**
+     - `SUPABASE_URL`
+     - `SUPABASE_KEY`
+
+2. **Dashboard component (Shiny app)**
+   - **Run command**
+
+     ```bash
+     python app.py
+     ```
+
+   - **Env vars**
+     - `API_BASE_URL` = `http://traffic-predictor-api:8000` (internal DNS name from the API component’s `name`)
+     - `OLLAMA_API_KEY` (optional, for AI narrative)
+
+DigitalOcean injects `PORT` for the public web component; `app.py` reads it and binds to `0.0.0.0:$PORT` automatically.
 
 ## 🔑 API requirements (keys & .env)
 
@@ -128,7 +178,9 @@ Codebook for CSVs and variables: [docs/CODEBOOK.md](./docs/CODEBOOK.md)
    - **full day**: compares all traffic on the same (location_id, date) as events vs baseline
    - other windows (e.g. **1h before**): compares traffic in the window around each event timestamp vs baseline
 3. Choose **All time** or **Specific years**.
-4. Click **Generate Report**. The HTML is written to `Traffic-Predictor/reports/`.
+4. Click **Generate Report**.
+   - The **Summary** from the AI-generated report appears directly in the dashboard once the run finishes.
+   - Click **“Click here to see the full report”** to download the full detailed HTML (charts, event impact section, optional time-based impact, suggested actions, and methodology appendix). Locally, that HTML is also written to `Traffic-Predictor/reports/traffic_report_YYYYMMDD_HHMMSS.html`.
 
 ## 🖼️ Screenshots
 
