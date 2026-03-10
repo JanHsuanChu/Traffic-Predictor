@@ -1,0 +1,18 @@
+# For generate_fake_data.py
+pandas>=2.0
+numpy>=1.24
+
+# For load_data_to_supabase.py
+supabase>=2.0
+
+# For FastAPI (main.py) — uses Supabase client, same .env as loader
+fastapi>=0.109
+uvicorn[standard]>=0.27
+
+# For Shiny dashboard (app.py) and report charts
+shiny
+shiny[theme]
+plotly
+
+# For statistical testing in report (utils_data.py)
+scipy>=1.10

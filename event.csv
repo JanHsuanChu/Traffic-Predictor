@@ -1,0 +1,1001 @@
+location_id,event_type,event_name,event_date,event_timestamp,event_duration
+33,holiday,Thanksgiving,2025-01-03,2025-01-03 21:16:29,290
+14,emergency,Bridge closure,2024-01-15,2024-01-15 14:55:06,294
+12,emergency,Security incident,2025-12-05,2025-12-05 05:52:11,201
+14,holiday,Halloween,2024-07-11,2024-07-11 11:53:14,233
+48,holiday,Diwali festival,2024-04-17,2024-04-17 11:14:27,115
+39,holiday,Diwali festival,2024-07-22,2024-07-22 09:39:02,220
+1,holiday,Memorial Day,2024-11-29,2024-11-29 12:57:02,277
+1,emergency,Gas leak evacuation,2025-11-25,2025-11-25 18:43:49,271
+25,emergency,Train derailment,2024-12-09,2024-12-09 02:26:34,476
+36,emergency,Train derailment,2025-03-09,2025-03-09 00:24:42,480
+2,weather,Heavy rain and flooding,2024-02-04,2024-02-04 01:29:41,419
+7,Sport & cultural,MLB World Championship,2025-07-09,2025-07-09 16:12:13,184
+16,weather,Blizzard,2025-09-08,2025-09-08 20:17:24,301
+34,holiday,New Year Eve,2024-02-06,2024-02-06 22:51:29,280
+6,weather,Ice storm,2025-03-20,2025-03-20 23:25:12,369
+2,holiday,Easter Sunday,2025-01-03,2025-01-03 07:44:47,218
+21,holiday,New Year Eve,2024-07-13,2024-07-13 22:50:27,344
+27,Sport & cultural,Local marathon,2025-03-05,2025-03-05 05:41:48,291
+5,holiday,Easter Sunday,2025-08-11,2025-08-11 10:56:45,89
+13,holiday,Labor Day,2025-09-13,2025-09-13 01:28:21,67
+17,Sport & cultural,NBA Finals,2024-05-07,2024-05-07 12:31:34,318
+44,Sport & cultural,Broadway opening night,2025-03-22,2025-03-22 21:08:29,31
+43,holiday,Labor Day,2024-01-04,2024-01-04 00:45:52,423
+35,emergency,Protest downtown,2025-02-22,2025-02-22 18:00:29,374
+44,holiday,Memorial Day,2024-04-02,2024-04-02 19:50:49,104
+8,Sport & cultural,Olympics Paris 2024,2024-05-21,2024-05-21 11:16:50,208
+31,emergency,Highway accident,2025-11-21,2025-11-21 08:46:25,391
+45,emergency,Protest downtown,2025-10-03,2025-10-03 12:51:36,253
+7,emergency,Highway accident,2024-05-04,2024-05-04 19:24:20,395
+4,emergency,Major power outage,2025-11-02,2025-11-02 05:23:46,334
+33,holiday,St Patrick's Day parade,2024-12-01,2024-12-01 01:14:33,455
+21,weather,Heavy rain and flooding,2025-05-16,2025-05-16 12:54:46,211
+20,emergency,Bridge closure,2025-06-26,2025-06-26 18:37:23,427
+12,weather,Dust storm,2025-10-05,2025-10-05 15:54:28,402
+26,emergency,Highway accident,2024-12-21,2024-12-21 19:46:50,274
+50,weather,Blizzard,2025-05-25,2025-05-25 02:51:09,128
+47,emergency,Major power outage,2024-07-30,2024-07-30 14:22:51,191
+32,holiday,Valentine's Day,2025-04-25,2025-04-25 11:12:48,156
+50,holiday,Halloween,2025-10-16,2025-10-16 13:06:45,280
+32,weather,Blizzard,2024-07-25,2024-07-25 20:27:17,369
+19,holiday,Chinese New Year,2025-11-24,2025-11-24 03:31:08,387
+39,holiday,Easter Sunday,2025-12-08,2025-12-08 17:22:46,359
+11,weather,Heat wave advisory,2024-09-25,2024-09-25 10:22:32,466
+41,emergency,Train derailment,2025-07-18,2025-07-18 00:44:21,253
+16,weather,Heat wave advisory,2024-09-24,2024-09-24 21:12:52,346
+12,weather,Heavy rain and flooding,2024-11-27,2024-11-27 06:26:35,444
+38,weather,Wildfire smoke,2024-07-27,2024-07-27 01:08:18,366
+27,holiday,New Year Eve,2025-07-07,2025-07-07 22:47:39,460
+31,emergency,Bridge closure,2025-02-07,2025-02-07 01:45:56,48
+9,emergency,Protest downtown,2025-05-10,2025-05-10 09:01:51,287
+25,Sport & cultural,Comic Con,2024-10-31,2024-10-31 23:22:19,150
+5,weather,Dust storm,2025-01-05,2025-01-05 18:33:44,452
+49,Sport & cultural,Broadway opening night,2025-02-24,2025-02-24 17:16:09,386
+26,Sport & cultural,Wimbledon Championship,2024-11-08,2024-11-08 14:15:46,74
+16,holiday,Thanksgiving,2025-09-20,2025-09-20 17:07:51,47
+19,Sport & cultural,Christmas parade,2025-09-11,2025-09-11 03:22:25,101
+25,Sport & cultural,Broadway opening night,2024-03-14,2024-03-14 03:39:34,98
+45,Sport & cultural,Wimbledon Championship,2024-01-30,2024-01-30 10:46:12,462
+31,emergency,Train derailment,2025-12-09,2025-12-09 10:12:17,330
+16,emergency,Train derailment,2024-06-02,2024-06-02 22:39:27,95
+32,holiday,St Patrick's Day parade,2025-09-30,2025-09-30 22:26:37,53
+36,Sport & cultural,Jazz festival downtown,2024-05-02,2024-05-02 15:43:05,321
+24,holiday,Black Friday,2025-03-10,2025-03-10 22:36:02,478
+39,emergency,Security incident,2025-05-21,2025-05-21 14:09:00,317
+42,holiday,Chinese New Year,2025-09-24,2025-09-24 04:54:46,112
+1,holiday,Valentine's Day,2025-12-22,2025-12-22 22:25:07,139
+44,emergency,Gas leak evacuation,2024-06-08,2024-06-08 14:20:15,158
+36,Sport & cultural,FIFA World Cup,2025-08-11,2025-08-11 13:21:43,108
+22,emergency,Gas leak evacuation,2024-03-05,2024-03-05 21:22:14,128
+39,emergency,Building collapse,2024-02-29,2024-02-29 13:10:19,176
+6,Sport & cultural,Super Bowl LIX,2024-08-17,2024-08-17 21:48:01,215
+41,weather,Thunderstorm and power outage,2024-02-23,2024-02-23 08:57:24,388
+34,Sport & cultural,Coachella Music Festival,2024-01-15,2024-01-15 03:32:00,457
+50,holiday,Easter Sunday,2025-07-26,2025-07-26 20:52:29,33
+21,emergency,Building collapse,2024-10-16,2024-10-16 20:16:38,123
+21,Sport & cultural,Met Gala,2024-04-17,2024-04-17 16:36:54,164
+17,emergency,Highway accident,2025-01-10,2025-01-10 20:38:33,203
+19,weather,Fog advisory,2025-11-12,2025-11-12 20:49:29,410
+49,Sport & cultural,Wimbledon Championship,2025-09-10,2025-09-10 19:03:16,390
+37,Sport & cultural,Jazz festival downtown,2024-03-15,2024-03-15 17:50:41,410
+32,holiday,Black Friday,2025-06-19,2025-06-19 16:43:20,343
+6,Sport & cultural,Comic Con,2025-06-16,2025-06-16 18:15:42,415
+37,holiday,Easter Sunday,2024-10-18,2024-10-18 13:40:55,231
+31,weather,Fog advisory,2025-05-12,2025-05-12 12:56:54,231
+25,Sport & cultural,Taylor Swift Era Tour,2024-02-21,2024-02-21 02:24:30,101
+36,emergency,Major power outage,2025-04-23,2025-04-23 08:02:57,226
+7,Sport & cultural,Broadway opening night,2024-07-01,2024-07-01 13:04:55,323
+13,Sport & cultural,Art fair weekend,2024-11-19,2024-11-19 07:24:42,241
+8,emergency,Water main break,2025-05-26,2025-05-26 22:26:03,44
+18,emergency,Water main break,2024-12-18,2024-12-18 22:12:01,83
+5,Sport & cultural,Art fair weekend,2024-01-07,2024-01-07 10:21:37,188
+15,emergency,Train derailment,2024-11-13,2024-11-13 13:12:16,74
+12,holiday,Diwali festival,2024-08-11,2024-08-11 02:15:15,194
+21,weather,Heat wave advisory,2024-03-25,2024-03-25 21:06:45,155
+16,holiday,Thanksgiving,2024-09-03,2024-09-03 20:28:36,433
+50,Sport & cultural,Taylor Swift Era Tour,2025-05-11,2025-05-11 13:03:36,181
+27,weather,Dust storm,2024-12-14,2024-12-14 00:09:18,458
+26,holiday,St Patrick's Day parade,2025-09-14,2025-09-14 04:01:12,397
+18,emergency,2025 LA Fire,2025-10-15,2025-10-15 12:53:21,375
+1,Sport & cultural,MLB World Championship,2024-05-31,2024-05-31 01:59:34,175
+27,Sport & cultural,Coachella Music Festival,2025-03-30,2025-03-30 03:03:06,179
+20,weather,Ice storm,2025-01-19,2025-01-19 21:11:49,147
+43,weather,Hurricane warning,2024-05-26,2024-05-26 09:51:49,133
+33,weather,Heat wave advisory,2024-05-28,2024-05-28 16:43:12,295
+31,weather,Fog advisory,2024-11-04,2024-11-04 15:45:23,409
+44,Sport & cultural,NBA Finals,2024-11-01,2024-11-01 10:01:18,450
+33,weather,Heavy rain and flooding,2025-08-31,2025-08-31 19:58:09,400
+7,holiday,Diwali festival,2024-05-28,2024-05-28 16:31:46,302
+50,emergency,Major power outage,2024-08-01,2024-08-01 21:02:56,339
+36,emergency,Bridge closure,2025-06-01,2025-06-01 21:01:04,203
+36,weather,Heavy rain and flooding,2024-04-15,2024-04-15 13:01:19,440
+7,holiday,Independence Day,2024-11-01,2024-11-01 21:57:31,200
+15,emergency,Security incident,2024-10-13,2024-10-13 13:04:22,258
+32,emergency,2025 LA Fire,2025-02-15,2025-02-15 11:50:37,196
+17,weather,Ice storm,2024-03-08,2024-03-08 22:12:35,304
+6,weather,Dust storm,2024-06-27,2024-06-27 06:23:10,429
+10,weather,Snowstorm,2024-01-24,2024-01-24 10:46:30,260
+44,Sport & cultural,Local marathon,2024-02-12,2024-02-12 02:11:15,250
+39,holiday,Memorial Day,2025-01-28,2025-01-28 13:45:05,188
+15,emergency,Protest downtown,2024-10-21,2024-10-21 20:00:22,443
+5,emergency,Major power outage,2024-06-17,2024-06-17 20:38:25,234
+40,emergency,Protest downtown,2025-12-19,2025-12-19 14:34:47,439
+41,weather,Hurricane warning,2024-06-01,2024-06-01 01:29:08,113
+6,weather,Thunderstorm and power outage,2025-01-18,2025-01-18 14:58:29,346
+29,emergency,2025 LA Fire,2024-01-06,2024-01-06 09:21:22,416
+17,holiday,Chinese New Year,2025-12-08,2025-12-08 09:33:29,53
+32,emergency,Highway accident,2025-05-03,2025-05-03 06:48:53,138
+29,emergency,Building collapse,2025-03-18,2025-03-18 21:07:03,75
+46,emergency,Security incident,2024-04-30,2024-04-30 10:16:26,90
+9,weather,Heavy rain and flooding,2024-06-25,2024-06-25 09:10:16,441
+22,holiday,Valentine's Day,2024-11-09,2024-11-09 02:47:04,443
+4,emergency,Building collapse,2025-06-21,2025-06-21 00:12:38,248
+32,weather,Blizzard,2024-01-10,2024-01-10 10:41:51,133
+6,Sport & cultural,Olympics Paris 2024,2024-11-29,2024-11-29 02:34:12,228
+21,Sport & cultural,Super Bowl LIX,2024-07-01,2024-07-01 06:40:28,31
+18,weather,Dust storm,2024-01-24,2024-01-24 06:15:00,296
+47,holiday,Easter Sunday,2025-03-15,2025-03-15 13:41:44,415
+14,Sport & cultural,Met Gala,2024-10-09,2024-10-09 21:00:02,69
+13,emergency,Bridge closure,2025-08-15,2025-08-15 11:31:22,308
+34,emergency,Train derailment,2024-05-04,2024-05-04 19:22:13,40
+30,holiday,Valentine's Day,2025-04-28,2025-04-28 12:22:01,232
+14,weather,Fog advisory,2024-08-14,2024-08-14 15:38:37,375
+40,Sport & cultural,FIFA World Cup,2025-08-25,2025-08-25 02:49:10,199
+21,emergency,Major power outage,2025-06-15,2025-06-15 10:58:57,72
+18,weather,Wildfire smoke,2025-06-01,2025-06-01 21:19:28,49
+39,Sport & cultural,Christmas parade,2024-06-14,2024-06-14 02:20:39,441
+35,holiday,Memorial Day,2025-09-08,2025-09-08 21:57:08,82
+1,emergency,Protest downtown,2025-11-18,2025-11-18 14:13:20,284
+41,weather,Blizzard,2025-07-01,2025-07-01 18:55:12,163
+4,holiday,Valentine's Day,2025-02-24,2025-02-24 12:02:54,303
+1,holiday,Valentine's Day,2024-07-25,2024-07-25 17:27:04,63
+40,Sport & cultural,Broadway opening night,2025-08-10,2025-08-10 09:13:01,166
+12,weather,Snowstorm,2024-04-19,2024-04-19 06:40:16,79
+40,holiday,Diwali festival,2024-09-05,2024-09-05 16:19:39,387
+41,emergency,Highway accident,2025-08-21,2025-08-21 16:59:06,305
+44,weather,Heavy rain and flooding,2024-06-18,2024-06-18 08:29:31,62
+39,emergency,Gas leak evacuation,2025-03-23,2025-03-23 23:11:16,130
+44,holiday,Chinese New Year,2025-12-19,2025-12-19 08:22:16,167
+44,weather,Heat wave advisory,2025-12-05,2025-12-05 10:16:25,323
+48,Sport & cultural,Christmas parade,2025-10-16,2025-10-16 20:23:01,470
+43,emergency,Bridge closure,2024-09-27,2024-09-27 15:00:25,437
+10,emergency,Protest downtown,2025-08-26,2025-08-26 18:53:38,418
+10,emergency,2025 LA Fire,2025-11-24,2025-11-24 21:39:45,167
+31,emergency,Train derailment,2024-11-21,2024-11-21 20:12:18,243
+21,Sport & cultural,Coachella Music Festival,2025-04-15,2025-04-15 16:38:28,87
+48,emergency,Gas leak evacuation,2025-03-19,2025-03-19 14:12:02,409
+1,emergency,Gas leak evacuation,2024-01-14,2024-01-14 02:42:42,163
+3,holiday,St Patrick's Day parade,2024-01-31,2024-01-31 00:40:22,86
+7,emergency,Security incident,2025-10-07,2025-10-07 02:09:00,266
+47,holiday,New Year Eve,2024-08-03,2024-08-03 11:35:52,303
+23,weather,Heat wave advisory,2025-11-02,2025-11-02 20:19:15,394
+35,Sport & cultural,Super Bowl LIX,2024-04-16,2024-04-16 08:33:21,464
+25,holiday,Black Friday,2025-08-28,2025-08-28 16:20:11,242
+26,weather,Hurricane warning,2025-01-12,2025-01-12 17:39:28,466
+13,emergency,2025 LA Fire,2025-08-12,2025-08-12 00:14:49,478
+17,weather,Ice storm,2025-01-24,2025-01-24 05:13:43,224
+13,Sport & cultural,Wimbledon Championship,2025-04-28,2025-04-28 02:58:46,349
+10,holiday,Diwali festival,2025-06-27,2025-06-27 03:35:34,466
+30,Sport & cultural,Wimbledon Championship,2025-08-02,2025-08-02 11:42:55,364
+6,weather,Dust storm,2024-03-04,2024-03-04 14:45:31,71
+4,Sport & cultural,Art fair weekend,2024-04-19,2024-04-19 09:18:05,205
+5,holiday,Independence Day,2025-09-23,2025-09-23 11:12:33,147
+13,emergency,Security incident,2024-05-31,2024-05-31 08:45:56,236
+32,weather,Ice storm,2024-01-07,2024-01-07 10:02:55,232
+47,emergency,Security incident,2024-08-07,2024-08-07 06:06:05,153
+19,weather,Heavy rain and flooding,2024-10-03,2024-10-03 12:12:44,85
+4,emergency,Security incident,2024-02-21,2024-02-21 14:24:05,170
+48,holiday,Labor Day,2025-03-21,2025-03-21 11:15:04,341
+45,holiday,Christmas Day,2024-05-01,2024-05-01 23:39:45,36
+18,Sport & cultural,Wimbledon Championship,2024-12-27,2024-12-27 02:40:42,163
+14,Sport & cultural,Met Gala,2025-11-14,2025-11-14 20:43:58,173
+2,Sport & cultural,NBA Finals,2025-08-23,2025-08-23 20:22:59,171
+5,emergency,2025 LA Fire,2025-12-26,2025-12-26 05:17:59,217
+50,holiday,Halloween,2024-10-25,2024-10-25 21:26:23,418
+25,Sport & cultural,Olympics Paris 2024,2025-02-19,2025-02-19 18:57:56,330
+9,holiday,Christmas Day,2025-01-06,2025-01-06 03:41:25,391
+2,weather,Thunderstorm and power outage,2024-01-06,2024-01-06 15:35:48,361
+22,holiday,Easter Sunday,2024-01-16,2024-01-16 12:36:34,264
+6,weather,Fog advisory,2025-10-16,2025-10-16 12:49:27,115
+28,emergency,Gas leak evacuation,2024-11-20,2024-11-20 17:43:29,156
+24,weather,Heavy rain and flooding,2025-01-30,2025-01-30 16:37:09,235
+8,Sport & cultural,Met Gala,2025-04-30,2025-04-30 19:21:33,286
+33,Sport & cultural,NBA Finals,2024-11-30,2024-11-30 20:22:40,335
+40,emergency,Train derailment,2025-08-26,2025-08-26 22:52:30,374
+8,Sport & cultural,FIFA World Cup,2025-12-26,2025-12-26 11:21:45,323
+19,holiday,Independence Day,2024-06-24,2024-06-24 11:38:35,335
+46,holiday,Halloween,2025-08-13,2025-08-13 21:24:03,334
+11,emergency,Security incident,2025-12-27,2025-12-27 18:36:29,221
+2,holiday,Diwali festival,2025-06-28,2025-06-28 10:07:19,409
+37,Sport & cultural,NBA Finals,2025-06-15,2025-06-15 01:30:33,113
+21,weather,Ice storm,2025-06-29,2025-06-29 18:22:43,149
+42,emergency,2025 LA Fire,2024-12-03,2024-12-03 17:45:27,198
+15,emergency,Building collapse,2024-12-27,2024-12-27 12:18:58,443
+14,holiday,Memorial Day,2025-01-22,2025-01-22 17:59:43,88
+14,emergency,Building collapse,2024-05-07,2024-05-07 17:49:12,106
+1,holiday,Memorial Day,2025-05-16,2025-05-16 20:27:27,131
+49,holiday,St Patrick's Day parade,2025-10-04,2025-10-04 09:12:36,142
+13,emergency,2025 LA Fire,2025-01-29,2025-01-29 19:19:12,409
+12,weather,Fog advisory,2024-07-09,2024-07-09 08:27:29,192
+30,Sport & cultural,Taylor Swift Era Tour,2025-03-03,2025-03-03 17:00:20,64
+38,Sport & cultural,Olympics Paris 2024,2024-03-13,2024-03-13 07:20:21,479
+16,weather,Thunderstorm and power outage,2025-09-19,2025-09-19 08:31:54,444
+28,emergency,Train derailment,2025-03-27,2025-03-27 11:43:53,102
+9,weather,Blizzard,2024-01-11,2024-01-11 13:04:11,191
+25,weather,Blizzard,2025-10-21,2025-10-21 13:28:44,399
+15,Sport & cultural,Local marathon,2025-04-19,2025-04-19 11:39:58,254
+10,Sport & cultural,Super Bowl LIX,2025-05-29,2025-05-29 17:36:28,57
+42,weather,Ice storm,2025-10-22,2025-10-22 07:28:28,459
+42,holiday,New Year Eve,2024-06-24,2024-06-24 10:29:01,450
+32,weather,Dust storm,2024-07-25,2024-07-25 13:56:39,217
+8,emergency,Bridge closure,2025-08-05,2025-08-05 00:05:23,69
+6,holiday,Diwali festival,2024-01-13,2024-01-13 18:21:52,252
+22,emergency,Building collapse,2025-06-07,2025-06-07 03:10:49,268
+14,weather,Hurricane warning,2024-11-25,2024-11-25 22:42:21,442
+32,emergency,Security incident,2025-11-30,2025-11-30 17:11:01,191
+26,Sport & cultural,Broadway opening night,2025-03-02,2025-03-02 20:24:01,309
+5,holiday,Memorial Day,2025-01-10,2025-01-10 13:06:52,286
+30,weather,Hurricane warning,2025-05-07,2025-05-07 13:02:14,58
+29,weather,Hurricane warning,2024-03-15,2024-03-15 17:51:38,412
+9,Sport & cultural,Broadway opening night,2024-06-11,2024-06-11 08:29:54,379
+32,holiday,Chinese New Year,2024-10-12,2024-10-12 05:36:40,317
+12,weather,Ice storm,2025-11-27,2025-11-27 00:28:59,154
+43,weather,Fog advisory,2025-02-10,2025-02-10 13:08:19,157
+22,emergency,Major power outage,2024-11-27,2024-11-27 11:30:05,89
+38,holiday,Diwali festival,2024-08-18,2024-08-18 12:24:55,240
+3,weather,Ice storm,2024-09-13,2024-09-13 07:20:54,392
+49,holiday,Valentine's Day,2025-07-22,2025-07-22 13:41:43,409
+17,weather,Fog advisory,2024-09-04,2024-09-04 08:53:15,154
+48,emergency,Train derailment,2025-08-30,2025-08-30 22:04:19,465
+36,Sport & cultural,Comic Con,2025-11-25,2025-11-25 05:21:02,340
+47,emergency,Security incident,2024-05-25,2024-05-25 06:10:16,428
+7,weather,Hurricane warning,2025-11-28,2025-11-28 07:40:38,101
+45,weather,Wildfire smoke,2025-04-23,2025-04-23 14:29:35,58
+29,holiday,Labor Day,2024-06-29,2024-06-29 10:10:00,203
+34,holiday,St Patrick's Day parade,2024-02-05,2024-02-05 22:45:36,384
+42,holiday,Chinese New Year,2025-10-25,2025-10-25 11:48:30,158
+45,Sport & cultural,Comic Con,2024-08-12,2024-08-12 23:52:14,335
+31,emergency,Building collapse,2024-08-30,2024-08-30 21:11:06,62
+3,weather,Wildfire smoke,2025-04-22,2025-04-22 16:25:29,230
+16,Sport & cultural,Broadway opening night,2024-12-19,2024-12-19 18:51:17,201
+49,Sport & cultural,Jazz festival downtown,2024-09-03,2024-09-03 19:03:26,399
+4,emergency,Train derailment,2024-11-28,2024-11-28 01:56:38,306
+17,weather,Blizzard,2024-07-11,2024-07-11 12:22:48,316
+3,holiday,Labor Day,2025-10-30,2025-10-30 19:45:31,446
+40,emergency,Security incident,2025-04-01,2025-04-01 04:25:41,119
+46,weather,Ice storm,2024-09-10,2024-09-10 10:16:04,37
+9,Sport & cultural,Taylor Swift Era Tour,2025-07-07,2025-07-07 11:20:45,208
+43,holiday,Black Friday,2025-03-08,2025-03-08 16:59:18,172
+38,Sport & cultural,MLB World Championship,2025-07-11,2025-07-11 18:16:56,85
+7,weather,Fog advisory,2024-01-05,2024-01-05 12:04:06,431
+36,weather,Hurricane warning,2025-09-23,2025-09-23 07:24:35,147
+22,emergency,Major power outage,2025-03-01,2025-03-01 03:15:36,150
+19,holiday,Valentine's Day,2025-08-04,2025-08-04 23:10:53,470
+21,weather,Ice storm,2025-12-20,2025-12-20 00:37:11,374
+7,weather,Blizzard,2025-11-26,2025-11-26 22:32:26,135
+29,holiday,Christmas Day,2024-12-30,2024-12-30 19:41:52,475
+10,holiday,Diwali festival,2024-09-26,2024-09-26 13:47:24,68
+9,weather,Thunderstorm and power outage,2024-08-14,2024-08-14 15:59:21,334
+7,weather,Fog advisory,2025-04-21,2025-04-21 04:05:37,100
+36,holiday,Christmas Day,2024-08-16,2024-08-16 17:33:47,196
+43,weather,Ice storm,2024-02-29,2024-02-29 03:00:26,357
+14,weather,Thunderstorm and power outage,2025-05-28,2025-05-28 23:21:48,430
+44,holiday,Independence Day,2024-08-14,2024-08-14 14:16:12,60
+31,Sport & cultural,Olympics Paris 2024,2024-01-03,2024-01-03 11:18:02,438
+12,emergency,Highway accident,2024-12-12,2024-12-12 17:39:16,183
+48,Sport & cultural,Christmas parade,2025-03-05,2025-03-05 10:27:57,225
+27,emergency,2025 LA Fire,2024-09-14,2024-09-14 08:06:05,259
+34,holiday,Valentine's Day,2024-12-29,2024-12-29 22:00:44,471
+25,emergency,Major power outage,2024-02-21,2024-02-21 16:15:03,175
+2,Sport & cultural,Coachella Music Festival,2024-04-04,2024-04-04 01:02:29,405
+42,holiday,Halloween,2024-01-29,2024-01-29 16:42:55,199
+48,emergency,Security incident,2024-08-29,2024-08-29 20:25:15,403
+1,emergency,Protest downtown,2025-09-13,2025-09-13 04:47:44,397
+50,emergency,2025 LA Fire,2025-04-06,2025-04-06 23:07:48,55
+43,Sport & cultural,Super Bowl LIX,2025-08-01,2025-08-01 05:09:32,287
+30,weather,Wildfire smoke,2025-03-23,2025-03-23 09:47:14,413
+15,weather,Hurricane warning,2024-08-21,2024-08-21 16:14:17,365
+34,Sport & cultural,Coachella Music Festival,2024-08-19,2024-08-19 08:26:11,470
+18,holiday,St Patrick's Day parade,2024-08-28,2024-08-28 03:09:43,311
+15,Sport & cultural,NBA Finals,2025-11-04,2025-11-04 09:10:56,93
+12,holiday,Black Friday,2024-10-16,2024-10-16 13:13:51,160
+42,emergency,Bridge closure,2025-03-29,2025-03-29 00:11:11,284
+39,holiday,Diwali festival,2024-11-10,2024-11-10 04:36:54,456
+43,holiday,New Year Eve,2025-02-12,2025-02-12 20:48:09,417
+29,holiday,Labor Day,2025-09-29,2025-09-29 18:01:31,103
+46,holiday,Valentine's Day,2025-04-25,2025-04-25 11:35:04,90
+22,weather,Thunderstorm and power outage,2025-01-07,2025-01-07 19:41:29,74
+8,emergency,Gas leak evacuation,2024-05-12,2024-05-12 12:43:37,120
+13,emergency,Major power outage,2025-06-30,2025-06-30 16:36:04,253
+35,Sport & cultural,Met Gala,2025-05-31,2025-05-31 20:02:39,75
+17,emergency,Protest downtown,2024-02-06,2024-02-06 08:25:56,353
+19,emergency,Major power outage,2024-11-17,2024-11-17 20:30:05,186
+25,holiday,Diwali festival,2025-12-15,2025-12-15 01:50:12,327
+14,holiday,Halloween,2024-06-17,2024-06-17 12:06:08,390
+39,Sport & cultural,Jazz festival downtown,2024-01-13,2024-01-13 06:52:01,405
+48,emergency,Highway accident,2025-09-03,2025-09-03 09:34:29,267
+45,holiday,Black Friday,2024-06-04,2024-06-04 00:41:32,83
+1,Sport & cultural,Comic Con,2024-09-18,2024-09-18 15:31:31,343
+35,weather,Hurricane warning,2024-07-25,2024-07-25 22:07:51,393
+34,emergency,Gas leak evacuation,2024-04-14,2024-04-14 08:43:41,135
+22,Sport & cultural,Coachella Music Festival,2024-08-12,2024-08-12 17:12:02,360
+43,emergency,Train derailment,2024-07-31,2024-07-31 23:24:57,61
+4,emergency,Building collapse,2024-11-02,2024-11-02 02:20:52,424
+47,holiday,Diwali festival,2025-02-09,2025-02-09 16:59:14,372
+31,weather,Blizzard,2025-01-06,2025-01-06 16:11:01,281
+19,Sport & cultural,Christmas parade,2025-01-19,2025-01-19 21:30:31,187
+34,holiday,St Patrick's Day parade,2024-02-07,2024-02-07 19:01:13,473
+2,holiday,Christmas Day,2025-05-11,2025-05-11 17:29:21,322
+23,holiday,Independence Day,2025-06-21,2025-06-21 11:31:31,121
+34,weather,Ice storm,2025-10-24,2025-10-24 00:26:30,95
+18,weather,Hurricane warning,2024-04-25,2024-04-25 20:27:53,438
+48,emergency,Protest downtown,2025-09-13,2025-09-13 02:51:10,359
+12,weather,Dust storm,2024-05-19,2024-05-19 18:39:22,229
+16,Sport & cultural,Taylor Swift Era Tour,2024-01-16,2024-01-16 23:51:51,79
+7,Sport & cultural,Taylor Swift Era Tour,2025-11-09,2025-11-09 18:54:30,210
+2,emergency,Protest downtown,2025-12-12,2025-12-12 03:03:16,94
+25,emergency,Security incident,2024-07-27,2024-07-27 20:21:49,217
+45,holiday,Memorial Day,2024-08-17,2024-08-17 06:13:54,371
+45,emergency,Protest downtown,2024-04-20,2024-04-20 19:22:15,89
+25,Sport & cultural,Super Bowl LIX,2025-05-06,2025-05-06 15:27:15,266
+18,Sport & cultural,Wimbledon Championship,2024-03-13,2024-03-13 12:10:01,175
+20,holiday,Thanksgiving,2024-06-21,2024-06-21 02:55:51,133
+14,emergency,Security incident,2024-04-30,2024-04-30 22:28:48,385
+29,holiday,Halloween,2024-03-17,2024-03-17 23:57:58,188
+8,weather,Heavy rain and flooding,2024-11-05,2024-11-05 09:37:21,132
+21,holiday,Chinese New Year,2024-12-19,2024-12-19 22:58:52,40
+16,Sport & cultural,Met Gala,2024-08-18,2024-08-18 00:19:41,455
+37,weather,Thunderstorm and power outage,2025-09-28,2025-09-28 02:56:45,462
+2,Sport & cultural,Wimbledon Championship,2024-04-25,2024-04-25 02:51:30,193
+45,emergency,Gas leak evacuation,2024-10-07,2024-10-07 13:49:53,435
+24,Sport & cultural,Coachella Music Festival,2025-09-18,2025-09-18 17:13:55,436
+13,Sport & cultural,Broadway opening night,2025-04-01,2025-04-01 12:33:58,51
+45,emergency,Security incident,2025-02-16,2025-02-16 12:18:05,40
+39,weather,Wildfire smoke,2024-06-29,2024-06-29 15:43:24,51
+20,emergency,Protest downtown,2025-12-28,2025-12-28 16:17:28,362
+45,weather,Snowstorm,2025-05-22,2025-05-22 10:03:01,96
+47,holiday,St Patrick's Day parade,2025-11-21,2025-11-21 00:14:48,43
+3,Sport & cultural,Art fair weekend,2024-05-06,2024-05-06 10:04:15,441
+7,emergency,Water main break,2024-07-27,2024-07-27 09:16:28,461
+13,weather,Ice storm,2025-10-23,2025-10-23 00:01:07,463
+7,Sport & cultural,Broadway opening night,2025-11-03,2025-11-03 16:45:31,363
+30,weather,Dust storm,2024-05-27,2024-05-27 09:58:15,411
+2,emergency,Water main break,2025-11-07,2025-11-07 09:46:38,339
+5,holiday,Valentine's Day,2025-01-30,2025-01-30 03:53:00,51
+17,weather,Fog advisory,2025-01-10,2025-01-10 17:02:06,38
+1,Sport & cultural,Broadway opening night,2024-03-23,2024-03-23 16:38:16,69
+24,weather,Thunderstorm and power outage,2024-06-26,2024-06-26 19:10:47,409
+26,emergency,Building collapse,2024-02-15,2024-02-15 03:43:49,373
+7,Sport & cultural,Comic Con,2025-01-09,2025-01-09 05:53:27,331
+21,Sport & cultural,Coachella Music Festival,2025-01-11,2025-01-11 17:37:13,212
+34,Sport & cultural,Wimbledon Championship,2024-11-16,2024-11-16 14:55:45,160
+28,Sport & cultural,MLB World Championship,2025-04-27,2025-04-27 08:07:14,416
+37,holiday,Valentine's Day,2024-03-20,2024-03-20 15:47:48,280
+29,holiday,Black Friday,2025-09-14,2025-09-14 22:34:39,246
+1,holiday,Christmas Day,2024-11-24,2024-11-24 02:25:36,462
+22,weather,Thunderstorm and power outage,2025-04-11,2025-04-11 00:17:52,186
+22,emergency,Security incident,2024-03-23,2024-03-23 22:28:02,337
+18,weather,Hurricane warning,2025-06-25,2025-06-25 04:44:11,301
+46,weather,Snowstorm,2025-09-02,2025-09-02 17:46:45,152
+1,emergency,Security incident,2025-06-21,2025-06-21 01:40:49,448
+18,holiday,Labor Day,2025-06-10,2025-06-10 12:48:44,367
+38,holiday,New Year Eve,2025-03-29,2025-03-29 07:59:53,458
+14,weather,Snowstorm,2025-12-23,2025-12-23 07:00:18,343
+1,emergency,Protest downtown,2025-04-29,2025-04-29 11:59:20,475
+2,holiday,Thanksgiving,2024-02-11,2024-02-11 15:38:33,313
+2,weather,Dust storm,2024-10-02,2024-10-02 00:56:01,197
+2,weather,Thunderstorm and power outage,2024-12-08,2024-12-08 08:17:53,139
+16,weather,Heavy rain and flooding,2024-10-28,2024-10-28 23:36:19,50
+33,weather,Thunderstorm and power outage,2025-08-31,2025-08-31 06:49:41,91
+6,emergency,Train derailment,2025-09-26,2025-09-26 21:03:54,108
+17,weather,Wildfire smoke,2025-12-18,2025-12-18 02:46:13,444
+47,Sport & cultural,Art fair weekend,2025-03-25,2025-03-25 19:41:37,225
+35,holiday,Black Friday,2025-03-27,2025-03-27 17:51:34,150
+37,holiday,Christmas Day,2025-08-16,2025-08-16 08:09:40,347
+39,weather,Ice storm,2025-01-19,2025-01-19 03:11:16,130
+35,holiday,Christmas Day,2024-07-06,2024-07-06 01:35:10,227
+50,weather,Fog advisory,2024-02-13,2024-02-13 08:54:21,450
+12,Sport & cultural,FIFA World Cup,2025-09-06,2025-09-06 21:30:31,468
+7,holiday,New Year Eve,2024-02-16,2024-02-16 20:19:05,215
+12,weather,Heavy rain and flooding,2025-01-08,2025-01-08 12:05:02,78
+37,emergency,Highway accident,2024-11-01,2024-11-01 21:17:41,445
+17,emergency,2025 LA Fire,2024-09-03,2024-09-03 22:26:01,378
+47,weather,Heavy rain and flooding,2024-11-05,2024-11-05 17:00:38,375
+18,holiday,Christmas Day,2025-10-28,2025-10-28 05:56:48,148
+8,weather,Snowstorm,2025-12-26,2025-12-26 01:48:19,220
+3,emergency,Train derailment,2025-08-11,2025-08-11 14:16:09,214
+45,emergency,Protest downtown,2025-11-01,2025-11-01 05:25:02,282
+11,holiday,Thanksgiving,2025-05-03,2025-05-03 10:02:21,376
+12,Sport & cultural,Broadway opening night,2025-09-28,2025-09-28 01:58:11,265
+44,holiday,Memorial Day,2024-01-05,2024-01-05 10:05:00,106
+46,Sport & cultural,Art fair weekend,2024-10-08,2024-10-08 02:14:08,432
+31,weather,Heat wave advisory,2025-01-14,2025-01-14 15:00:16,479
+1,holiday,Labor Day,2024-01-24,2024-01-24 15:13:48,43
+44,emergency,Train derailment,2025-10-14,2025-10-14 06:18:06,152
+36,weather,Thunderstorm and power outage,2025-12-20,2025-12-20 04:07:37,283
+38,holiday,Diwali festival,2025-03-10,2025-03-10 23:37:08,131
+36,emergency,Highway accident,2024-03-05,2024-03-05 11:29:01,330
+36,weather,Blizzard,2024-01-14,2024-01-14 16:00:37,110
+20,holiday,Christmas Day,2025-09-19,2025-09-19 01:52:14,181
+2,holiday,Chinese New Year,2025-08-08,2025-08-08 01:17:45,157
+8,emergency,Bridge closure,2024-03-22,2024-03-22 19:15:16,293
+2,weather,Dust storm,2024-05-26,2024-05-26 03:43:50,238
+29,Sport & cultural,Christmas parade,2025-05-05,2025-05-05 06:15:41,303
+29,weather,Ice storm,2025-05-22,2025-05-22 14:12:04,403
+5,holiday,Independence Day,2025-05-27,2025-05-27 10:17:04,237
+25,holiday,Labor Day,2025-12-07,2025-12-07 22:29:09,170
+8,holiday,Christmas Day,2025-03-10,2025-03-10 05:53:03,184
+39,emergency,Gas leak evacuation,2024-03-21,2024-03-21 12:48:01,308
+49,Sport & cultural,Coachella Music Festival,2024-01-04,2024-01-04 21:03:39,260
+24,holiday,Independence Day,2025-10-30,2025-10-30 06:10:51,131
+39,Sport & cultural,Met Gala,2024-02-25,2024-02-25 21:58:13,138
+49,holiday,Thanksgiving,2025-11-29,2025-11-29 03:54:49,89
+5,weather,Heavy rain and flooding,2025-05-25,2025-05-25 11:08:07,158
+22,weather,Snowstorm,2025-04-04,2025-04-04 14:25:05,434
+34,weather,Blizzard,2024-07-01,2024-07-01 16:13:41,479
+35,holiday,Black Friday,2025-08-28,2025-08-28 07:54:55,340
+4,weather,Hurricane warning,2024-07-05,2024-07-05 12:47:43,45
+37,Sport & cultural,Comic Con,2025-08-02,2025-08-02 11:45:43,384
+38,holiday,Chinese New Year,2025-05-20,2025-05-20 13:07:29,309
+46,Sport & cultural,FIFA World Cup,2025-10-23,2025-10-23 17:26:59,258
+10,holiday,Diwali festival,2024-03-27,2024-03-27 15:22:16,142
+6,holiday,Independence Day,2025-12-11,2025-12-11 16:45:28,184
+38,holiday,Memorial Day,2024-09-25,2024-09-25 16:52:56,42
+50,Sport & cultural,Jazz festival downtown,2024-01-31,2024-01-31 19:49:27,280
+18,emergency,Bridge closure,2024-04-24,2024-04-24 18:59:22,314
+44,Sport & cultural,Broadway opening night,2025-10-08,2025-10-08 19:58:31,121
+38,Sport & cultural,Jazz festival downtown,2025-02-18,2025-02-18 22:04:21,208
+49,weather,Thunderstorm and power outage,2025-04-26,2025-04-26 05:45:31,101
+48,Sport & cultural,Local marathon,2024-01-29,2024-01-29 00:44:14,244
+47,emergency,Major power outage,2024-02-01,2024-02-01 19:31:48,231
+30,weather,Ice storm,2025-08-12,2025-08-12 05:02:53,243
+36,Sport & cultural,Super Bowl LIX,2024-03-19,2024-03-19 15:40:13,283
+34,Sport & cultural,Jazz festival downtown,2025-05-31,2025-05-31 01:47:58,87
+2,emergency,Security incident,2024-11-08,2024-11-08 22:17:52,206
+9,Sport & cultural,NBA Finals,2025-10-13,2025-10-13 23:13:27,114
+14,holiday,Thanksgiving,2025-09-05,2025-09-05 22:37:42,45
+35,weather,Dust storm,2024-02-12,2024-02-12 05:24:41,412
+26,emergency,Gas leak evacuation,2025-12-10,2025-12-10 19:37:17,39
+6,emergency,Security incident,2024-10-04,2024-10-04 14:16:38,334
+36,holiday,Thanksgiving,2025-11-28,2025-11-28 11:50:32,132
+23,Sport & cultural,Comic Con,2025-03-16,2025-03-16 18:47:03,296
+37,holiday,Chinese New Year,2025-10-03,2025-10-03 04:35:48,174
+28,Sport & cultural,Wimbledon Championship,2025-05-31,2025-05-31 00:23:39,95
+47,holiday,St Patrick's Day parade,2025-06-18,2025-06-18 12:33:54,331
+4,weather,Snowstorm,2025-05-17,2025-05-17 15:32:19,281
+14,Sport & cultural,Art fair weekend,2025-05-04,2025-05-04 12:37:46,147
+46,weather,Fog advisory,2025-10-17,2025-10-17 15:50:35,337
+47,Sport & cultural,Super Bowl LIX,2025-07-06,2025-07-06 19:04:58,319
+27,Sport & cultural,MLB World Championship,2025-07-29,2025-07-29 03:46:57,335
+18,emergency,Highway accident,2025-06-08,2025-06-08 20:34:03,121
+26,Sport & cultural,Christmas parade,2025-10-17,2025-10-17 23:45:47,395
+32,weather,Ice storm,2024-05-03,2024-05-03 00:31:04,452
+21,holiday,Chinese New Year,2025-08-21,2025-08-21 05:08:33,335
+18,weather,Wildfire smoke,2025-11-05,2025-11-05 04:56:52,78
+8,emergency,Water main break,2024-03-22,2024-03-22 01:26:05,221
+3,Sport & cultural,Taylor Swift Era Tour,2024-09-13,2024-09-13 07:16:02,389
+2,weather,Heavy rain and flooding,2025-07-09,2025-07-09 19:01:26,116
+23,weather,Snowstorm,2025-02-19,2025-02-19 06:27:55,366
+36,weather,Ice storm,2025-05-15,2025-05-15 17:08:02,250
+45,emergency,Gas leak evacuation,2024-04-17,2024-04-17 22:16:11,449
+47,holiday,Thanksgiving,2024-04-04,2024-04-04 02:21:07,95
+29,holiday,Halloween,2025-06-08,2025-06-08 09:27:49,323
+47,holiday,Black Friday,2024-10-25,2024-10-25 08:25:15,480
+44,weather,Dust storm,2025-10-19,2025-10-19 07:45:58,347
+33,emergency,Train derailment,2024-10-11,2024-10-11 21:32:30,257
+47,holiday,Thanksgiving,2024-01-05,2024-01-05 05:11:47,334
+10,holiday,Thanksgiving,2024-07-04,2024-07-04 14:00:27,198
+20,emergency,Security incident,2025-08-18,2025-08-18 05:57:53,120
+41,holiday,Diwali festival,2025-02-04,2025-02-04 08:08:28,40
+8,weather,Heat wave advisory,2024-12-10,2024-12-10 03:09:04,63
+13,emergency,Train derailment,2025-01-21,2025-01-21 03:47:03,403
+32,Sport & cultural,Wimbledon Championship,2024-08-14,2024-08-14 22:02:12,108
+4,Sport & cultural,Local marathon,2025-02-02,2025-02-02 16:28:03,303
+38,weather,Heavy rain and flooding,2024-02-12,2024-02-12 05:36:07,288
+32,emergency,Security incident,2024-05-10,2024-05-10 15:10:08,40
+19,holiday,New Year Eve,2024-06-06,2024-06-06 08:08:46,338
+30,holiday,Memorial Day,2025-11-08,2025-11-08 20:56:36,52
+4,emergency,Protest downtown,2024-03-21,2024-03-21 20:48:02,97
+10,emergency,Highway accident,2025-02-21,2025-02-21 05:42:03,206
+18,weather,Wildfire smoke,2024-10-21,2024-10-21 21:34:14,467
+5,weather,Blizzard,2024-07-22,2024-07-22 20:37:26,270
+36,weather,Heavy rain and flooding,2025-06-03,2025-06-03 16:26:35,178
+4,emergency,Building collapse,2024-06-17,2024-06-17 14:45:45,286
+2,weather,Dust storm,2025-06-11,2025-06-11 21:29:46,400
+9,weather,Blizzard,2024-09-12,2024-09-12 05:26:26,326
+34,weather,Hurricane warning,2025-07-23,2025-07-23 11:30:31,348
+1,emergency,Building collapse,2025-08-17,2025-08-17 10:20:22,460
+23,emergency,2025 LA Fire,2025-09-13,2025-09-13 13:12:08,280
+14,weather,Dust storm,2024-03-27,2024-03-27 05:43:01,342
+39,holiday,Valentine's Day,2025-04-21,2025-04-21 09:46:42,410
+15,weather,Heavy rain and flooding,2025-08-18,2025-08-18 15:10:48,364
+22,weather,Wildfire smoke,2025-04-28,2025-04-28 13:26:32,375
+41,weather,Thunderstorm and power outage,2024-10-20,2024-10-20 08:35:08,240
+4,emergency,Train derailment,2024-03-29,2024-03-29 03:27:03,207
+50,holiday,Labor Day,2024-05-21,2024-05-21 01:29:15,367
+2,Sport & cultural,Jazz festival downtown,2024-06-15,2024-06-15 06:13:29,472
+15,weather,Dust storm,2025-05-12,2025-05-12 08:04:09,105
+18,holiday,New Year Eve,2024-01-19,2024-01-19 13:33:41,332
+28,holiday,Christmas Day,2025-12-30,2025-12-30 13:51:28,422
+8,holiday,Easter Sunday,2024-11-08,2024-11-08 06:51:10,49
+26,Sport & cultural,Taylor Swift Era Tour,2025-06-18,2025-06-18 04:48:12,411
+19,holiday,Black Friday,2024-03-28,2024-03-28 11:56:16,131
+42,emergency,Major power outage,2025-06-04,2025-06-04 01:03:33,114
+23,emergency,Security incident,2025-12-22,2025-12-22 14:57:03,193
+50,weather,Thunderstorm and power outage,2025-12-01,2025-12-01 10:19:51,55
+9,emergency,Security incident,2024-01-07,2024-01-07 23:07:22,401
+44,holiday,Chinese New Year,2024-09-16,2024-09-16 20:34:54,393
+1,Sport & cultural,Comic Con,2024-07-03,2024-07-03 07:16:19,178
+26,emergency,Water main break,2024-09-14,2024-09-14 09:41:21,287
+13,emergency,Water main break,2024-03-18,2024-03-18 12:08:25,112
+38,weather,Dust storm,2025-12-09,2025-12-09 04:33:20,114
+26,emergency,Bridge closure,2025-10-13,2025-10-13 14:50:44,274
+24,emergency,Train derailment,2024-01-09,2024-01-09 11:25:22,228
+12,holiday,Black Friday,2025-08-02,2025-08-02 13:18:11,186
+41,emergency,Security incident,2024-08-19,2024-08-19 10:11:24,205
+29,emergency,Bridge closure,2024-01-27,2024-01-27 01:15:10,268
+6,weather,Heat wave advisory,2025-01-24,2025-01-24 21:24:41,58
+46,weather,Snowstorm,2024-07-15,2024-07-15 01:54:29,460
+19,holiday,Independence Day,2025-11-03,2025-11-03 21:08:03,441
+28,weather,Thunderstorm and power outage,2024-03-09,2024-03-09 11:40:08,276
+8,emergency,2025 LA Fire,2024-03-06,2024-03-06 18:07:05,349
+17,emergency,Building collapse,2024-06-01,2024-06-01 12:11:53,351
+32,weather,Ice storm,2025-01-10,2025-01-10 22:35:48,74
+15,weather,Heat wave advisory,2024-12-31,2024-12-31 20:19:52,308
+21,holiday,Thanksgiving,2025-12-29,2025-12-29 00:35:52,215
+6,holiday,Diwali festival,2025-02-06,2025-02-06 16:33:04,468
+40,weather,Heavy rain and flooding,2025-11-21,2025-11-21 02:43:30,36
+35,Sport & cultural,Art fair weekend,2025-10-29,2025-10-29 12:15:32,303
+33,emergency,Gas leak evacuation,2025-03-21,2025-03-21 05:32:32,69
+7,holiday,Memorial Day,2024-03-15,2024-03-15 07:33:48,91
+4,Sport & cultural,Super Bowl LIX,2024-01-19,2024-01-19 07:53:30,241
+45,Sport & cultural,Wimbledon Championship,2024-04-14,2024-04-14 17:50:57,409
+9,Sport & cultural,Super Bowl LIX,2024-04-15,2024-04-15 19:23:51,371
+13,emergency,Security incident,2025-12-19,2025-12-19 00:16:16,118
+18,weather,Hurricane warning,2024-08-26,2024-08-26 10:44:21,315
+9,emergency,Water main break,2025-02-18,2025-02-18 19:50:33,185
+32,weather,Wildfire smoke,2025-07-17,2025-07-17 23:21:16,279
+16,holiday,Christmas Day,2024-09-24,2024-09-24 19:20:06,123
+7,holiday,Independence Day,2025-04-30,2025-04-30 10:48:25,393
+11,holiday,Independence Day,2025-04-25,2025-04-25 12:09:07,330
+11,emergency,Security incident,2024-01-23,2024-01-23 20:00:19,457
+22,emergency,Protest downtown,2025-05-03,2025-05-03 00:35:40,350
+48,Sport & cultural,Art fair weekend,2025-05-10,2025-05-10 11:55:51,56
+37,holiday,Memorial Day,2024-08-17,2024-08-17 04:07:21,377
+26,weather,Dust storm,2024-09-02,2024-09-02 09:14:05,307
+25,holiday,Labor Day,2024-10-25,2024-10-25 20:59:29,362
+43,Sport & cultural,MLB World Championship,2025-08-25,2025-08-25 06:05:56,382
+10,Sport & cultural,Broadway opening night,2024-05-11,2024-05-11 15:35:36,161
+35,emergency,Protest downtown,2024-07-16,2024-07-16 16:28:20,383
+44,weather,Heavy rain and flooding,2024-06-17,2024-06-17 11:42:58,476
+12,weather,Wildfire smoke,2024-01-24,2024-01-24 20:14:08,429
+3,emergency,Protest downtown,2024-05-07,2024-05-07 21:51:12,415
+45,weather,Ice storm,2024-05-05,2024-05-05 02:30:29,327
+15,weather,Thunderstorm and power outage,2024-02-21,2024-02-21 17:26:03,428
+19,holiday,Thanksgiving,2025-04-13,2025-04-13 10:19:26,356
+48,emergency,Security incident,2024-05-03,2024-05-03 20:58:41,349
+19,holiday,Memorial Day,2025-07-28,2025-07-28 21:25:02,363
+47,holiday,New Year Eve,2024-03-05,2024-03-05 19:16:20,145
+31,Sport & cultural,MLB World Championship,2025-09-21,2025-09-21 17:15:59,116
+34,holiday,Labor Day,2024-12-12,2024-12-12 14:53:52,257
+3,emergency,Protest downtown,2025-01-13,2025-01-13 11:54:28,168
+21,Sport & cultural,Christmas parade,2025-04-13,2025-04-13 00:44:25,180
+39,holiday,Easter Sunday,2024-01-28,2024-01-28 10:15:52,381
+39,holiday,Easter Sunday,2025-12-08,2025-12-08 18:23:47,186
+32,holiday,St Patrick's Day parade,2024-01-09,2024-01-09 09:44:29,456
+34,holiday,Christmas Day,2024-10-30,2024-10-30 07:39:33,263
+47,Sport & cultural,Taylor Swift Era Tour,2024-09-10,2024-09-10 20:44:50,274
+34,holiday,New Year Eve,2025-07-12,2025-07-12 15:31:44,62
+5,weather,Heat wave advisory,2024-11-05,2024-11-05 04:47:43,462
+12,emergency,Train derailment,2025-12-03,2025-12-03 06:41:11,237
+3,Sport & cultural,Local marathon,2024-10-30,2024-10-30 01:09:07,97
+40,weather,Ice storm,2024-11-04,2024-11-04 08:48:06,396
+5,weather,Snowstorm,2024-09-06,2024-09-06 03:25:35,52
+25,emergency,Water main break,2024-09-04,2024-09-04 05:01:09,394
+49,weather,Heat wave advisory,2024-01-20,2024-01-20 04:19:20,39
+1,weather,Snowstorm,2025-11-02,2025-11-02 02:01:30,266
+48,emergency,Security incident,2025-11-02,2025-11-02 09:31:52,62
+5,emergency,Highway accident,2025-02-22,2025-02-22 23:32:05,145
+36,emergency,Train derailment,2024-02-27,2024-02-27 05:31:38,234
+14,holiday,Halloween,2025-02-13,2025-02-13 07:39:12,321
+44,Sport & cultural,Comic Con,2024-02-23,2024-02-23 15:36:57,192
+20,holiday,Chinese New Year,2025-10-16,2025-10-16 22:26:10,480
+32,weather,Thunderstorm and power outage,2024-01-11,2024-01-11 02:32:39,120
+37,Sport & cultural,Broadway opening night,2024-05-31,2024-05-31 07:39:50,265
+9,weather,Fog advisory,2025-11-14,2025-11-14 06:25:56,350
+26,holiday,Memorial Day,2024-04-11,2024-04-11 23:49:53,135
+35,holiday,Halloween,2024-05-21,2024-05-21 04:30:25,408
+49,holiday,Black Friday,2024-12-08,2024-12-08 12:32:27,166
+40,Sport & cultural,Met Gala,2024-12-18,2024-12-18 11:42:50,80
+31,holiday,Christmas Day,2024-08-05,2024-08-05 16:34:07,115
+15,weather,Heat wave advisory,2025-10-28,2025-10-28 16:02:44,348
+8,emergency,Major power outage,2025-01-17,2025-01-17 10:50:51,460
+39,holiday,Labor Day,2024-11-14,2024-11-14 21:16:57,338
+24,emergency,Water main break,2024-04-13,2024-04-13 19:45:30,45
+2,holiday,Memorial Day,2024-02-20,2024-02-20 21:52:53,395
+6,weather,Heat wave advisory,2025-04-12,2025-04-12 15:42:07,297
+13,Sport & cultural,Local marathon,2025-03-31,2025-03-31 19:23:45,35
+24,weather,Fog advisory,2024-05-26,2024-05-26 06:54:54,412
+16,emergency,Bridge closure,2024-09-22,2024-09-22 08:52:55,117
+26,emergency,Bridge closure,2024-11-03,2024-11-03 01:43:28,94
+6,emergency,Gas leak evacuation,2025-12-16,2025-12-16 07:06:11,253
+44,emergency,Water main break,2025-04-09,2025-04-09 03:24:39,175
+25,emergency,Bridge closure,2024-11-01,2024-11-01 22:56:01,311
+15,Sport & cultural,MLB World Championship,2025-01-03,2025-01-03 02:31:41,92
+18,holiday,New Year Eve,2024-05-22,2024-05-22 17:54:04,368
+6,holiday,Diwali festival,2024-09-25,2024-09-25 01:44:24,166
+2,Sport & cultural,FIFA World Cup,2025-08-26,2025-08-26 18:51:47,305
+40,Sport & cultural,Olympics Paris 2024,2024-10-16,2024-10-16 14:03:42,192
+7,holiday,Easter Sunday,2024-07-28,2024-07-28 18:24:29,80
+23,emergency,Major power outage,2025-04-06,2025-04-06 07:52:35,216
+36,holiday,Thanksgiving,2024-12-27,2024-12-27 09:04:59,134
+50,holiday,Thanksgiving,2025-07-17,2025-07-17 05:09:45,419
+3,weather,Snowstorm,2025-01-26,2025-01-26 10:57:33,453
+36,Sport & cultural,Coachella Music Festival,2024-12-23,2024-12-23 19:29:10,442
+39,emergency,2025 LA Fire,2025-12-04,2025-12-04 23:12:56,267
+12,emergency,Water main break,2025-03-01,2025-03-01 10:09:10,462
+49,weather,Blizzard,2025-06-03,2025-06-03 21:52:01,218
+2,holiday,Valentine's Day,2024-03-05,2024-03-05 11:39:45,32
+22,weather,Wildfire smoke,2025-03-01,2025-03-01 03:59:43,421
+35,Sport & cultural,Christmas parade,2025-08-19,2025-08-19 16:22:05,317
+5,emergency,Water main break,2024-04-26,2024-04-26 11:56:10,246
+5,Sport & cultural,Jazz festival downtown,2025-12-15,2025-12-15 07:49:20,412
+38,emergency,2025 LA Fire,2025-12-20,2025-12-20 20:53:01,157
+14,Sport & cultural,Christmas parade,2025-04-13,2025-04-13 23:55:58,144
+47,Sport & cultural,Comic Con,2024-09-24,2024-09-24 16:40:21,444
+34,emergency,Water main break,2025-09-29,2025-09-29 12:56:12,240
+43,Sport & cultural,NBA Finals,2024-09-07,2024-09-07 18:23:45,324
+5,emergency,Water main break,2025-06-12,2025-06-12 14:37:34,214
+34,emergency,Water main break,2024-10-11,2024-10-11 13:14:54,315
+11,emergency,2025 LA Fire,2024-09-01,2024-09-01 06:40:14,383
+39,emergency,Gas leak evacuation,2025-12-08,2025-12-08 07:35:32,474
+46,weather,Snowstorm,2024-09-09,2024-09-09 21:45:43,363
+13,emergency,Highway accident,2024-04-30,2024-04-30 02:43:08,113
+39,weather,Fog advisory,2024-08-24,2024-08-24 10:45:49,335
+29,weather,Heat wave advisory,2024-04-08,2024-04-08 08:08:47,356
+15,holiday,Halloween,2024-06-06,2024-06-06 10:23:32,156
+22,Sport & cultural,Broadway opening night,2024-02-07,2024-02-07 12:12:14,310
+33,weather,Thunderstorm and power outage,2025-09-22,2025-09-22 10:37:01,63
+43,emergency,Gas leak evacuation,2024-02-21,2024-02-21 19:26:30,463
+44,weather,Dust storm,2025-11-26,2025-11-26 01:33:32,51
+4,Sport & cultural,Broadway opening night,2024-08-31,2024-08-31 21:26:25,143
+22,emergency,Protest downtown,2024-05-21,2024-05-21 15:59:51,287
+12,Sport & cultural,Met Gala,2024-07-17,2024-07-17 09:02:42,343
+43,holiday,Diwali festival,2024-10-14,2024-10-14 00:47:09,450
+11,emergency,Gas leak evacuation,2025-05-19,2025-05-19 09:31:34,475
+36,emergency,Gas leak evacuation,2024-05-13,2024-05-13 05:32:44,234
+24,weather,Thunderstorm and power outage,2025-07-25,2025-07-25 20:31:37,437
+16,weather,Heat wave advisory,2025-11-28,2025-11-28 10:01:14,324
+50,Sport & cultural,Jazz festival downtown,2024-01-01,2024-01-01 16:27:03,98
+36,Sport & cultural,Art fair weekend,2025-12-06,2025-12-06 15:17:04,240
+1,emergency,Security incident,2024-07-20,2024-07-20 13:30:26,326
+50,Sport & cultural,Jazz festival downtown,2025-01-04,2025-01-04 05:23:16,460
+23,weather,Thunderstorm and power outage,2025-04-06,2025-04-06 18:54:24,467
+33,weather,Wildfire smoke,2025-12-17,2025-12-17 10:53:38,431
+47,emergency,Bridge closure,2025-03-10,2025-03-10 10:07:57,309
+34,holiday,New Year Eve,2025-02-01,2025-02-01 22:41:36,100
+40,weather,Dust storm,2025-05-15,2025-05-15 08:55:07,108
+10,emergency,Bridge closure,2025-09-03,2025-09-03 21:42:10,312
+33,Sport & cultural,Jazz festival downtown,2025-10-03,2025-10-03 05:30:07,76
+29,Sport & cultural,Wimbledon Championship,2025-01-24,2025-01-24 17:10:28,442
+31,holiday,Black Friday,2025-07-27,2025-07-27 02:45:44,64
+26,Sport & cultural,Comic Con,2025-04-15,2025-04-15 02:16:12,171
+9,weather,Hurricane warning,2025-12-29,2025-12-29 10:16:57,94
+43,Sport & cultural,Art fair weekend,2025-06-24,2025-06-24 05:43:58,319
+5,Sport & cultural,Christmas parade,2024-07-23,2024-07-23 11:33:44,118
+5,weather,Heavy rain and flooding,2024-08-16,2024-08-16 21:31:08,105
+13,holiday,Black Friday,2024-08-11,2024-08-11 21:59:04,139
+40,Sport & cultural,Coachella Music Festival,2025-05-14,2025-05-14 16:31:44,325
+3,emergency,Train derailment,2025-03-02,2025-03-02 07:34:36,389
+38,Sport & cultural,Comic Con,2024-10-24,2024-10-24 21:25:51,204
+48,emergency,Highway accident,2025-06-23,2025-06-23 23:38:30,71
+48,holiday,Halloween,2025-04-09,2025-04-09 13:35:40,56
+12,weather,Heat wave advisory,2025-09-03,2025-09-03 04:25:03,245
+40,weather,Heat wave advisory,2024-02-25,2024-02-25 08:05:30,213
+22,holiday,Black Friday,2025-11-22,2025-11-22 17:29:24,289
+18,emergency,Train derailment,2024-04-30,2024-04-30 18:51:19,399
+15,weather,Ice storm,2025-03-05,2025-03-05 13:31:52,400
+2,weather,Hurricane warning,2024-11-10,2024-11-10 03:04:45,432
+24,Sport & cultural,Wimbledon Championship,2025-04-17,2025-04-17 02:40:17,148
+29,holiday,Halloween,2025-03-25,2025-03-25 07:08:20,98
+47,holiday,Valentine's Day,2024-11-14,2024-11-14 01:27:37,342
+14,emergency,Security incident,2024-08-21,2024-08-21 22:37:03,465
+45,weather,Wildfire smoke,2024-06-06,2024-06-06 00:12:16,332
+32,holiday,New Year Eve,2025-05-09,2025-05-09 09:49:13,217
+49,emergency,Bridge closure,2024-12-17,2024-12-17 14:40:03,128
+42,holiday,Valentine's Day,2024-12-29,2024-12-29 23:50:50,81
+46,holiday,Black Friday,2024-07-01,2024-07-01 03:52:03,65
+31,Sport & cultural,MLB World Championship,2025-05-10,2025-05-10 16:03:57,320
+37,Sport & cultural,MLB World Championship,2024-06-22,2024-06-22 08:55:03,52
+50,holiday,Valentine's Day,2024-11-29,2024-11-29 06:25:33,108
+35,Sport & cultural,Local marathon,2024-09-23,2024-09-23 20:48:55,160
+43,Sport & cultural,Super Bowl LIX,2025-07-31,2025-07-31 17:44:40,446
+32,Sport & cultural,Comic Con,2025-01-16,2025-01-16 08:08:24,399
+36,Sport & cultural,Art fair weekend,2024-03-26,2024-03-26 01:05:48,285
+2,emergency,Security incident,2024-05-19,2024-05-19 14:46:58,194
+43,emergency,Gas leak evacuation,2024-05-31,2024-05-31 15:20:22,182
+41,holiday,Christmas Day,2024-02-28,2024-02-28 09:31:42,162
+34,Sport & cultural,NBA Finals,2025-05-26,2025-05-26 21:54:09,179
+20,weather,Wildfire smoke,2024-09-21,2024-09-21 06:32:18,35
+50,Sport & cultural,Coachella Music Festival,2025-03-28,2025-03-28 23:02:30,262
+22,Sport & cultural,MLB World Championship,2024-12-29,2024-12-29 20:26:53,317
+26,holiday,Easter Sunday,2024-07-22,2024-07-22 09:16:12,193
+11,holiday,Valentine's Day,2024-01-09,2024-01-09 09:29:23,454
+41,Sport & cultural,Christmas parade,2024-02-14,2024-02-14 01:23:31,444
+16,weather,Thunderstorm and power outage,2025-01-25,2025-01-25 21:52:05,397
+3,weather,Thunderstorm and power outage,2025-08-26,2025-08-26 19:18:47,146
+32,holiday,Easter Sunday,2025-11-04,2025-11-04 01:47:07,406
+14,Sport & cultural,Comic Con,2025-11-16,2025-11-16 19:28:26,218
+48,holiday,Labor Day,2025-03-06,2025-03-06 11:54:34,59
+15,weather,Thunderstorm and power outage,2025-12-22,2025-12-22 06:48:07,169
+50,Sport & cultural,Met Gala,2025-10-12,2025-10-12 05:59:32,241
+9,emergency,Train derailment,2024-01-11,2024-01-11 21:10:46,195
+35,emergency,Highway accident,2025-08-18,2025-08-18 06:24:35,458
+18,emergency,Gas leak evacuation,2025-06-08,2025-06-08 08:12:55,480
+37,weather,Dust storm,2024-08-02,2024-08-02 11:12:19,81
+4,emergency,Gas leak evacuation,2024-01-22,2024-01-22 02:20:29,451
+20,weather,Hurricane warning,2024-09-06,2024-09-06 03:58:59,111
+20,Sport & cultural,Christmas parade,2024-01-28,2024-01-28 16:06:07,141
+40,holiday,St Patrick's Day parade,2024-09-30,2024-09-30 19:20:01,320
+17,emergency,Bridge closure,2024-02-22,2024-02-22 03:35:31,472
+48,Sport & cultural,Broadway opening night,2024-02-19,2024-02-19 14:37:25,230
+28,weather,Hurricane warning,2025-10-13,2025-10-13 01:48:39,375
+5,Sport & cultural,Christmas parade,2025-07-21,2025-07-21 22:21:31,378
+33,emergency,Train derailment,2024-07-10,2024-07-10 16:23:02,78
+36,weather,Snowstorm,2024-05-31,2024-05-31 07:03:33,172
+45,Sport & cultural,Christmas parade,2024-12-11,2024-12-11 23:02:43,230
+10,holiday,New Year Eve,2024-12-25,2024-12-25 19:59:15,64
+24,emergency,Security incident,2024-09-29,2024-09-29 18:38:26,308
+42,weather,Thunderstorm and power outage,2024-10-04,2024-10-04 15:29:42,304
+3,emergency,Security incident,2024-04-05,2024-04-05 00:57:47,324
+41,Sport & cultural,Met Gala,2024-03-31,2024-03-31 19:43:58,478
+19,emergency,Protest downtown,2024-04-27,2024-04-27 03:18:12,193
+36,Sport & cultural,NBA Finals,2025-09-08,2025-09-08 19:30:08,135
+12,weather,Wildfire smoke,2024-10-28,2024-10-28 20:14:58,40
+41,weather,Heavy rain and flooding,2024-07-06,2024-07-06 03:08:58,366
+27,emergency,Security incident,2025-05-27,2025-05-27 23:13:49,347
+36,emergency,Train derailment,2024-12-02,2024-12-02 20:41:10,109
+32,holiday,Black Friday,2025-08-27,2025-08-27 05:36:04,247
+1,Sport & cultural,Taylor Swift Era Tour,2024-12-24,2024-12-24 20:27:20,236
+39,weather,Fog advisory,2025-01-27,2025-01-27 18:04:27,308
+26,holiday,St Patrick's Day parade,2025-05-08,2025-05-08 20:10:36,468
+26,Sport & cultural,Art fair weekend,2024-09-06,2024-09-06 16:22:37,70
+40,emergency,Train derailment,2025-11-25,2025-11-25 03:08:35,142
+47,weather,Ice storm,2024-05-14,2024-05-14 06:54:59,130
+14,Sport & cultural,Olympics Paris 2024,2024-10-29,2024-10-29 06:16:02,323
+21,Sport & cultural,Super Bowl LIX,2024-12-27,2024-12-27 02:04:35,412
+17,weather,Wildfire smoke,2025-10-10,2025-10-10 17:35:41,183
+1,weather,Blizzard,2025-11-11,2025-11-11 02:27:23,377
+8,weather,Hurricane warning,2025-08-19,2025-08-19 06:23:44,230
+41,Sport & cultural,Super Bowl LIX,2024-03-02,2024-03-02 09:24:45,382
+14,Sport & cultural,Met Gala,2025-09-25,2025-09-25 10:56:44,105
+37,emergency,Security incident,2025-12-27,2025-12-27 08:19:08,177
+47,Sport & cultural,Jazz festival downtown,2024-10-30,2024-10-30 11:21:13,449
+20,emergency,Building collapse,2024-10-04,2024-10-04 15:53:43,192
+32,weather,Heavy rain and flooding,2025-11-09,2025-11-09 10:33:02,61
+23,Sport & cultural,Wimbledon Championship,2025-04-28,2025-04-28 15:06:01,291
+47,holiday,Thanksgiving,2024-12-31,2024-12-31 13:35:58,290
+14,weather,Ice storm,2025-06-16,2025-06-16 10:29:30,239
+31,emergency,Water main break,2024-06-27,2024-06-27 17:54:16,74
+27,holiday,Christmas Day,2025-04-25,2025-04-25 01:55:13,120
+21,weather,Ice storm,2024-12-04,2024-12-04 03:56:09,261
+27,Sport & cultural,Christmas parade,2024-07-17,2024-07-17 20:15:03,447
+30,Sport & cultural,Super Bowl LIX,2024-07-17,2024-07-17 09:24:13,198
+4,weather,Blizzard,2024-08-17,2024-08-17 09:32:26,187
+40,emergency,Security incident,2025-06-08,2025-06-08 03:56:23,305
+27,holiday,Independence Day,2024-10-07,2024-10-07 22:34:04,421
+36,holiday,Halloween,2024-07-15,2024-07-15 18:15:05,122
+30,Sport & cultural,FIFA World Cup,2024-05-05,2024-05-05 15:40:30,317
+44,weather,Thunderstorm and power outage,2024-06-13,2024-06-13 19:33:29,349
+21,holiday,Memorial Day,2024-08-27,2024-08-27 17:27:57,134
+1,weather,Fog advisory,2024-07-15,2024-07-15 04:53:36,49
+45,weather,Hurricane warning,2024-06-15,2024-06-15 06:47:44,396
+2,Sport & cultural,NBA Finals,2024-04-14,2024-04-14 18:18:39,385
+23,holiday,Black Friday,2025-10-26,2025-10-26 06:47:12,142
+6,emergency,Train derailment,2024-11-14,2024-11-14 07:08:14,32
+17,emergency,Highway accident,2025-04-15,2025-04-15 15:33:13,393
+22,weather,Wildfire smoke,2024-04-08,2024-04-08 22:16:02,315
+37,weather,Blizzard,2025-05-23,2025-05-23 13:14:11,433
+45,weather,Heat wave advisory,2025-09-13,2025-09-13 07:35:44,58
+6,Sport & cultural,Taylor Swift Era Tour,2024-08-21,2024-08-21 07:14:24,174
+44,holiday,New Year Eve,2025-05-02,2025-05-02 21:09:26,363
+47,emergency,Water main break,2025-04-12,2025-04-12 18:43:14,332
+9,weather,Thunderstorm and power outage,2025-08-02,2025-08-02 10:40:31,61
+50,Sport & cultural,Coachella Music Festival,2025-10-26,2025-10-26 14:55:51,213
+5,Sport & cultural,Olympics Paris 2024,2025-08-26,2025-08-26 17:28:44,467
+31,emergency,Protest downtown,2024-07-04,2024-07-04 15:08:21,205
+10,holiday,Christmas Day,2025-10-19,2025-10-19 22:20:55,114
+26,holiday,St Patrick's Day parade,2025-03-06,2025-03-06 09:03:37,298
+19,emergency,Train derailment,2025-06-11,2025-06-11 02:27:20,382
+34,holiday,Valentine's Day,2025-04-21,2025-04-21 03:02:13,323
+12,emergency,Protest downtown,2025-06-23,2025-06-23 10:11:48,398
+12,weather,Wildfire smoke,2025-02-24,2025-02-24 10:11:09,139
+16,weather,Snowstorm,2025-02-19,2025-02-19 07:54:31,401
+26,holiday,Chinese New Year,2025-02-21,2025-02-21 02:26:26,109
+40,weather,Ice storm,2025-08-12,2025-08-12 09:11:07,390
+2,Sport & cultural,MLB World Championship,2024-12-11,2024-12-11 05:59:38,204
+42,Sport & cultural,Art fair weekend,2025-08-02,2025-08-02 20:01:12,414
+32,emergency,Train derailment,2024-08-09,2024-08-09 21:10:05,375
+4,holiday,Memorial Day,2025-03-25,2025-03-25 16:16:49,464
+3,Sport & cultural,Broadway opening night,2025-10-30,2025-10-30 11:59:31,197
+41,weather,Hurricane warning,2024-03-08,2024-03-08 22:19:58,115
+34,emergency,Train derailment,2025-08-24,2025-08-24 03:17:43,463
+23,Sport & cultural,Met Gala,2024-02-18,2024-02-18 08:52:15,82
+14,emergency,Major power outage,2024-07-17,2024-07-17 05:54:22,389
+11,emergency,2025 LA Fire,2025-05-09,2025-05-09 22:10:43,431
+40,Sport & cultural,Broadway opening night,2025-05-17,2025-05-17 00:16:45,293
+14,Sport & cultural,Wimbledon Championship,2025-11-05,2025-11-05 12:35:26,414
+23,holiday,Christmas Day,2025-01-22,2025-01-22 20:09:28,269
+19,Sport & cultural,FIFA World Cup,2025-09-21,2025-09-21 06:34:03,254
+23,emergency,Gas leak evacuation,2025-09-08,2025-09-08 08:45:16,479
+4,weather,Wildfire smoke,2025-06-20,2025-06-20 10:30:08,161
+26,weather,Dust storm,2024-05-24,2024-05-24 10:20:57,33
+8,emergency,Major power outage,2024-11-06,2024-11-06 17:25:06,156
+21,weather,Heavy rain and flooding,2024-04-24,2024-04-24 20:24:26,147
+9,emergency,Building collapse,2025-05-28,2025-05-28 15:25:08,299
+2,holiday,Independence Day,2025-03-21,2025-03-21 07:02:11,273
+12,weather,Wildfire smoke,2024-04-04,2024-04-04 15:46:42,390
+32,weather,Blizzard,2024-05-25,2024-05-25 01:54:42,448
+37,emergency,Water main break,2025-03-16,2025-03-16 13:30:18,98
+45,Sport & cultural,NBA Finals,2025-09-06,2025-09-06 20:00:15,31
+21,holiday,Valentine's Day,2024-08-18,2024-08-18 11:07:47,283
+8,holiday,Valentine's Day,2024-04-14,2024-04-14 22:44:47,161
+6,holiday,Thanksgiving,2024-08-28,2024-08-28 23:46:54,301
+36,emergency,2025 LA Fire,2025-10-29,2025-10-29 11:35:48,437
+48,holiday,Diwali festival,2025-06-26,2025-06-26 17:14:24,394
+36,holiday,Black Friday,2024-01-13,2024-01-13 17:30:25,154
+47,holiday,Black Friday,2024-02-26,2024-02-26 17:01:49,114
+45,holiday,Independence Day,2025-04-18,2025-04-18 23:48:40,449
+49,Sport & cultural,Met Gala,2025-02-20,2025-02-20 21:57:06,301
+43,Sport & cultural,Super Bowl LIX,2024-08-04,2024-08-04 03:06:26,149
+47,weather,Heat wave advisory,2025-01-16,2025-01-16 11:00:24,237
+42,Sport & cultural,Super Bowl LIX,2025-09-28,2025-09-28 14:07:38,295
+27,Sport & cultural,Met Gala,2024-11-25,2024-11-25 06:35:46,422
+1,emergency,Building collapse,2025-03-29,2025-03-29 16:49:29,266
+32,Sport & cultural,Wimbledon Championship,2024-08-31,2024-08-31 01:28:50,212
+20,holiday,Labor Day,2025-10-01,2025-10-01 09:30:53,416
+34,Sport & cultural,NBA Finals,2025-06-23,2025-06-23 14:12:18,83
+47,Sport & cultural,Met Gala,2024-12-10,2024-12-10 00:52:34,175
+22,Sport & cultural,Met Gala,2024-01-25,2024-01-25 10:25:14,102
+20,emergency,Water main break,2024-01-02,2024-01-02 18:12:30,175
+6,Sport & cultural,Met Gala,2024-10-21,2024-10-21 23:57:39,83
+15,weather,Snowstorm,2024-04-17,2024-04-17 02:48:01,137
+35,holiday,Chinese New Year,2024-04-24,2024-04-24 01:01:56,307
+43,Sport & cultural,Christmas parade,2024-12-29,2024-12-29 07:28:24,104
+17,emergency,Highway accident,2025-09-02,2025-09-02 19:41:06,219
+10,weather,Fog advisory,2025-07-05,2025-07-05 07:27:19,385
+10,holiday,Independence Day,2025-02-03,2025-02-03 23:36:59,442
+33,holiday,Independence Day,2024-07-04,2024-07-04 08:31:31,289
+14,holiday,St Patrick's Day parade,2025-02-06,2025-02-06 00:23:27,389
+3,Sport & cultural,Met Gala,2024-02-10,2024-02-10 08:14:24,333
+5,Sport & cultural,Met Gala,2024-01-07,2024-01-07 09:52:23,366
+43,holiday,New Year Eve,2025-09-24,2025-09-24 17:40:11,194
+34,Sport & cultural,Comic Con,2025-10-29,2025-10-29 00:25:22,67
+16,holiday,Thanksgiving,2024-01-11,2024-01-11 09:46:41,41
+7,emergency,Bridge closure,2024-03-19,2024-03-19 15:11:43,468
+10,Sport & cultural,Jazz festival downtown,2025-05-10,2025-05-10 08:06:14,456
+29,holiday,Christmas Day,2025-05-20,2025-05-20 11:22:46,412
+42,weather,Heat wave advisory,2025-09-20,2025-09-20 19:15:23,284
+8,weather,Dust storm,2024-09-04,2024-09-04 15:31:41,104
+4,emergency,Security incident,2025-10-29,2025-10-29 14:25:45,277
+41,emergency,Building collapse,2024-08-31,2024-08-31 01:22:44,221
+28,weather,Hurricane warning,2024-04-15,2024-04-15 21:48:27,382
+48,holiday,Labor Day,2024-11-06,2024-11-06 20:39:07,257
+8,holiday,Memorial Day,2024-02-24,2024-02-24 00:36:08,130
+34,weather,Thunderstorm and power outage,2025-08-09,2025-08-09 06:41:18,436
+44,weather,Hurricane warning,2024-01-19,2024-01-19 19:51:17,366
+35,weather,Dust storm,2025-08-07,2025-08-07 22:51:55,273
+1,emergency,Major power outage,2024-12-05,2024-12-05 03:37:04,203
+40,Sport & cultural,Jazz festival downtown,2025-05-26,2025-05-26 17:45:37,94
+11,holiday,Easter Sunday,2025-07-02,2025-07-02 22:00:58,163
+18,weather,Snowstorm,2025-09-06,2025-09-06 02:17:09,224
+24,holiday,Thanksgiving,2025-04-10,2025-04-10 23:35:38,365
+36,Sport & cultural,Taylor Swift Era Tour,2025-02-13,2025-02-13 22:51:57,145
+33,emergency,Security incident,2025-08-21,2025-08-21 16:04:14,156
+41,holiday,Memorial Day,2025-08-26,2025-08-26 21:46:41,350
+38,holiday,Independence Day,2025-09-06,2025-09-06 13:52:50,310
+11,weather,Heavy rain and flooding,2025-12-06,2025-12-06 04:50:57,301
+12,emergency,Protest downtown,2025-01-08,2025-01-08 16:25:43,200
+50,weather,Heavy rain and flooding,2024-12-25,2024-12-25 10:50:43,451
+29,Sport & cultural,FIFA World Cup,2025-09-06,2025-09-06 20:32:37,66
+3,weather,Ice storm,2024-06-24,2024-06-24 08:13:01,47
+14,weather,Snowstorm,2024-12-01,2024-12-01 02:04:46,48
+41,weather,Hurricane warning,2024-10-11,2024-10-11 16:05:04,116
+45,emergency,Gas leak evacuation,2025-11-08,2025-11-08 21:05:33,426
+17,holiday,Thanksgiving,2024-09-18,2024-09-18 15:08:39,224
+3,emergency,Train derailment,2024-03-31,2024-03-31 21:33:34,309
+46,emergency,Gas leak evacuation,2024-08-03,2024-08-03 12:51:22,32
+16,Sport & cultural,Met Gala,2024-12-02,2024-12-02 20:06:07,462
+48,emergency,Water main break,2024-08-11,2024-08-11 19:45:04,64
+8,Sport & cultural,Wimbledon Championship,2025-02-13,2025-02-13 23:13:48,38
+1,weather,Heavy rain and flooding,2025-02-03,2025-02-03 00:42:03,80
+24,holiday,Easter Sunday,2024-11-21,2024-11-21 23:13:29,433
+32,Sport & cultural,NBA Finals,2025-11-10,2025-11-10 15:49:19,61
+22,Sport & cultural,Met Gala,2024-03-22,2024-03-22 20:40:54,472
+23,Sport & cultural,Wimbledon Championship,2024-01-08,2024-01-08 13:13:16,286
+11,emergency,Building collapse,2025-12-07,2025-12-07 03:44:06,413
+4,Sport & cultural,Local marathon,2024-07-28,2024-07-28 12:13:14,269
+45,holiday,Halloween,2024-08-09,2024-08-09 14:29:58,182
+2,emergency,Highway accident,2025-05-23,2025-05-23 08:55:26,401
+29,holiday,Chinese New Year,2025-07-18,2025-07-18 11:54:03,212
+42,holiday,Memorial Day,2025-02-03,2025-02-03 13:38:42,250
+10,holiday,Black Friday,2025-06-28,2025-06-28 22:37:19,134
+29,weather,Dust storm,2025-06-03,2025-06-03 20:02:59,421
+50,emergency,Train derailment,2025-02-10,2025-02-10 20:39:54,251
+18,weather,Hurricane warning,2024-05-21,2024-05-21 07:18:52,458
+4,Sport & cultural,Olympics Paris 2024,2025-04-13,2025-04-13 12:25:40,54
+9,holiday,Diwali festival,2025-03-17,2025-03-17 22:23:46,384
+32,holiday,Diwali festival,2025-08-23,2025-08-23 08:28:32,275
+31,holiday,Labor Day,2025-07-10,2025-07-10 02:30:52,128
+6,emergency,Water main break,2024-05-27,2024-05-27 19:24:43,399
+44,Sport & cultural,Taylor Swift Era Tour,2025-09-23,2025-09-23 10:35:45,171
+17,Sport & cultural,Jazz festival downtown,2025-11-23,2025-11-23 11:34:22,349
+49,holiday,Diwali festival,2025-10-21,2025-10-21 05:07:57,290
+36,Sport & cultural,Broadway opening night,2025-01-23,2025-01-23 07:21:58,249
+19,Sport & cultural,FIFA World Cup,2025-10-18,2025-10-18 06:36:42,341
+36,Sport & cultural,Taylor Swift Era Tour,2024-09-18,2024-09-18 10:19:14,79
+23,weather,Dust storm,2024-01-18,2024-01-18 03:02:59,77
+6,holiday,Independence Day,2024-02-15,2024-02-15 01:36:04,443
+16,emergency,Protest downtown,2025-10-25,2025-10-25 06:53:51,407
+6,Sport & cultural,Met Gala,2025-08-15,2025-08-15 09:44:04,124
+35,holiday,Christmas Day,2024-02-17,2024-02-17 20:37:41,475
+36,emergency,2025 LA Fire,2024-09-14,2024-09-14 17:15:09,66
+44,holiday,Christmas Day,2024-10-22,2024-10-22 23:17:36,311
+27,emergency,Highway accident,2024-04-08,2024-04-08 11:48:31,230
+27,holiday,New Year Eve,2025-02-08,2025-02-08 10:59:52,54
+22,holiday,Thanksgiving,2024-07-19,2024-07-19 18:42:49,413
+5,holiday,Christmas Day,2025-07-17,2025-07-17 10:34:59,265
+37,emergency,Gas leak evacuation,2025-12-12,2025-12-12 18:19:39,423
+25,holiday,Labor Day,2024-09-06,2024-09-06 07:35:04,477
+2,emergency,Major power outage,2024-06-03,2024-06-03 00:35:58,259
+13,Sport & cultural,Jazz festival downtown,2024-07-24,2024-07-24 22:40:01,131
+5,emergency,Protest downtown,2024-02-25,2024-02-25 00:03:44,134
+35,emergency,Bridge closure,2024-10-26,2024-10-26 00:47:13,43
+42,emergency,Bridge closure,2024-11-14,2024-11-14 23:53:39,239
+28,emergency,Gas leak evacuation,2025-11-21,2025-11-21 06:37:46,117
+18,holiday,Thanksgiving,2024-07-26,2024-07-26 02:16:57,363
+33,weather,Snowstorm,2025-01-06,2025-01-06 18:36:07,346
+9,Sport & cultural,Comic Con,2025-10-20,2025-10-20 10:16:12,126
+32,holiday,Labor Day,2025-02-20,2025-02-20 08:27:01,413
+9,weather,Blizzard,2024-05-11,2024-05-11 05:42:36,183
+42,holiday,Chinese New Year,2025-11-14,2025-11-14 23:18:15,339
+27,Sport & cultural,NBA Finals,2024-01-09,2024-01-09 19:21:56,39
+47,weather,Wildfire smoke,2024-10-05,2024-10-05 05:53:55,174
+23,emergency,Highway accident,2025-04-02,2025-04-02 12:57:49,195
+38,Sport & cultural,Wimbledon Championship,2025-07-07,2025-07-07 16:10:12,91
+22,holiday,Easter Sunday,2024-10-31,2024-10-31 15:25:27,276
+10,holiday,Thanksgiving,2025-09-11,2025-09-11 08:40:33,289
+14,emergency,Bridge closure,2024-05-26,2024-05-26 05:54:51,355
+23,Sport & cultural,Met Gala,2025-06-10,2025-06-10 19:37:25,329
+22,Sport & cultural,Local marathon,2024-10-25,2024-10-25 02:24:28,116
+31,Sport & cultural,Coachella Music Festival,2024-04-10,2024-04-10 00:47:04,188
+13,weather,Hurricane warning,2025-10-19,2025-10-19 05:20:58,367
+47,holiday,New Year Eve,2025-05-25,2025-05-25 13:16:59,181
+15,weather,Blizzard,2024-02-20,2024-02-20 03:47:22,416
+41,weather,Thunderstorm and power outage,2024-04-09,2024-04-09 19:12:52,425
+6,weather,Blizzard,2024-06-03,2024-06-03 05:40:25,370
+1,holiday,Halloween,2024-09-07,2024-09-07 17:34:56,140
+23,holiday,Halloween,2024-09-17,2024-09-17 09:32:49,395
+14,emergency,2025 LA Fire,2024-08-03,2024-08-03 19:54:11,300
+28,holiday,New Year Eve,2024-07-09,2024-07-09 09:53:20,282
+11,emergency,Highway accident,2025-08-12,2025-08-12 05:54:14,341
+50,Sport & cultural,Coachella Music Festival,2024-10-28,2024-10-28 07:53:42,388
+23,emergency,Security incident,2025-05-30,2025-05-30 07:12:11,42
+20,emergency,Bridge closure,2025-07-24,2025-07-24 18:57:24,443
+46,weather,Blizzard,2024-01-02,2024-01-02 19:12:49,285
+16,holiday,Halloween,2025-03-25,2025-03-25 11:44:08,49
+20,weather,Fog advisory,2025-08-29,2025-08-29 21:20:34,40
+49,Sport & cultural,Comic Con,2024-11-13,2024-11-13 19:14:45,447
+5,Sport & cultural,Comic Con,2025-12-07,2025-12-07 01:57:16,467
+30,holiday,New Year Eve,2024-07-26,2024-07-26 13:01:30,34
+3,emergency,Train derailment,2024-01-17,2024-01-17 23:28:16,410
+44,holiday,Halloween,2024-03-24,2024-03-24 18:27:32,349
+17,holiday,Memorial Day,2024-12-09,2024-12-09 09:26:46,198
+31,weather,Hurricane warning,2024-09-13,2024-09-13 22:13:23,282
+36,emergency,Train derailment,2025-04-20,2025-04-20 18:43:59,66
+43,holiday,Easter Sunday,2025-04-11,2025-04-11 10:23:38,213
+28,emergency,Train derailment,2024-07-31,2024-07-31 10:18:41,111
+42,Sport & cultural,Christmas parade,2024-12-16,2024-12-16 04:04:29,257
+4,weather,Fog advisory,2024-03-19,2024-03-19 12:52:06,275
+30,weather,Heat wave advisory,2024-02-28,2024-02-28 19:17:02,48
