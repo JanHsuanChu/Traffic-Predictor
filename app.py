@@ -85,6 +85,7 @@ app_ui = ui.page_fillable(
         ),
         ui.output_ui("report_status_ui"),
         ui.output_ui("report_error_ui"),
+        ui.output_ui("report_summary_ui"),
         ui.output_ui("report_download_ui"),
     ),
     ui.card(
@@ -159,6 +160,7 @@ def server(input, output, session):
     events_df = reactive.Value(None)
     data_load_error = reactive.Value(None)
     report_path = reactive.Value(None)
+    report_summary = reactive.Value("")
     report_error = reactive.Value(None)
     report_generating = reactive.Value(False)
     last_run_sec = reactive.Value(None)
@@ -290,16 +292,28 @@ def server(input, output, session):
 
     @output
     @render.ui
+    def report_summary_ui():
+        text = report_summary.get() or ""
+        if not text.strip():
+            return ui.div()
+        return ui.div(
+            ui.h4("Summary from latest report", class_="mt-3", style="color: #DD4633;"),
+            ui.p(text, class_="mb-2"),
+            class_="mt-2",
+        )
+
+    @output
+    @render.ui
     def report_download_ui():
         path = report_path.get()
         if not path:
             return ui.div()
-        filename = Path(path).name
-        api_base = API_BASE_URL.rstrip("/")
-        open_url = f"{api_base}/reports/{filename}"
         return ui.div(
-            ui.download_button("download_report", "Download report", class_="btn-primary me-2"),
-            ui.a("Open report", href=open_url, target="_blank", class_="btn btn-outline-primary"),
+            ui.download_button(
+                "download_report",
+                "Click here to see the full report",
+                class_="btn-primary me-2",
+            ),
         )
 
     @output
@@ -315,6 +329,7 @@ def server(input, output, session):
     def _generate_report():
         report_error.set(None)
         report_path.set(None)
+        report_summary.set("")
         report_generating.set(True)
         t0 = time.perf_counter()
         try:
@@ -431,6 +446,7 @@ def server(input, output, session):
             except Exception:
                 analysis_reply = None
             parsed = _parse_analysis_sections(analysis_reply or "")
+            report_summary.set(parsed.get("summary", ""))
 
             ttest_note = ""
             pval = payload.get("ttest_pvalue")
