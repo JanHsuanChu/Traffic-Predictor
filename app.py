@@ -487,4 +487,6 @@ app = App(app_ui, server)
 # Run on port 8001 by default so FastAPI can use 8000: python app.py
 if __name__ == "__main__":
     from shiny import run_app
-    run_app(app, port=8001)
+    host = os.environ.get("HOST", "0.0.0.0")
+    port = int(os.environ.get("PORT", "8080"))
+    run_app(app, host=host, port=port)
