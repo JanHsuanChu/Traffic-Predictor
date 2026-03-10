@@ -18,6 +18,7 @@ Analyze how different **event categories** (e.g., *Sport & cultural*) relate to 
 
 - **Inputs**: traffic records + event records stored in **Supabase** (Postgres).
 - **UI**: a Shiny dashboard where you choose **Event type**, **Time window**, and optional **Years**.
+- **Why an AI-powered report?** The app generates an **AI-assisted narrative** that turns the computed statistics into a short, reader-friendly explanation (what’s high/low, what changed vs baseline) plus actionable guidance for travel planning.
 - **Output**: a report with:
   - **Event impact ranking** (avg congestion + % change vs baseline)
   - optional **Time-based impact** (only when time window = **full day**)
@@ -36,6 +37,19 @@ flowchart LR
   E --> F
   F --> G[(reports/*.html)]
 ```
+
+1. **Store data** in Supabase tables (`traffic`, `event`) using the schema in [supabase_migration_traffic_event.sql](./supabase_migration_traffic_event.sql).
+2. **Serve data** with FastAPI ([main.py](./main.py)), which reads from Supabase via [database.py](./database.py).
+3. **Interact in the UI** ([app.py](./app.py)): choose event type, time window, and (optionally) years.
+4. **Compute analysis** ([utils_data.py](./utils_data.py)): match traffic rows to event windows, compute baseline vs event-window averages, percent change, rankings, and an optional two-sample t-test.
+5. **(Optional) Generate narrative** ([utils_ollama.py](./utils_ollama.py)): send the aggregated stats and ranked lists to an LLM so the narrative ordering matches the charts.
+6. **Render the report** ([report_builder.py](./report_builder.py)) into `reports/*.html`.
+
+### 🤖 AI model & how analysis is produced
+
+- **Model**: by default, [utils_ollama.py](./utils_ollama.py) calls **Ollama Cloud** using `model="gpt-oss:20b-cloud"`.
+- **What the AI sees**: the prompt includes aggregated statistics (window average, baseline average, percent change, counts) plus **explicit ranked lists** (top event names by average congestion and by % change) so the narrative matches the plotted order.
+- **Fallback behavior**: if `OLLAMA_API_KEY` is missing or the call fails, the report still generates with charts and statistics; the AI narrative sections may be blank and the appendix notes that narrative was unavailable.
 
 ## 🧰 Installation
 
@@ -122,7 +136,27 @@ Codebook for CSVs and variables: [docs/CODEBOOK.md](./docs/CODEBOOK.md)
 
 ## 🔗 Documentation & code reference
 
-- **API**: endpoints, params, and examples: [docs/API.md](./docs/API.md)
-- **Function reference**: what each module/function does and key parameters: [docs/REFERENCE.md](./docs/REFERENCE.md)
-- **Pipeline guide**: how data is generated/loaded and how to reproduce: [docs/PIPELINE.md](./docs/PIPELINE.md)
+If you’re new to the repo, a good reading order is: **schema → API → dashboard → aggregation → report builder**.
+
+### 🧭 Repo navigation (where to look)
+
+| What you want | Start here |
+|---|---|
+| Database schema (tables + indexes) | [supabase_migration_traffic_event.sql](./supabase_migration_traffic_event.sql) |
+| Supabase setup + loading walkthrough | [SUPABASE_SETUP.md](./SUPABASE_SETUP.md) |
+| Generate synthetic CSV data (fully reproducible) | [generate_fake_data.py](./generate_fake_data.py) |
+| Load `traffic.csv` / `event.csv` into Supabase | [load_data_to_supabase.py](./load_data_to_supabase.py) |
+| FastAPI endpoints (`/traffic`, `/events`, `/reports/*`) | [main.py](./main.py) |
+| Supabase client + `.env` keys | [database.py](./database.py) |
+| Shiny dashboard UI + prompt building | [app.py](./app.py) |
+| Matching logic + stats + t-test payload | [utils_data.py](./utils_data.py) |
+| LLM call (Ollama Cloud) | [utils_ollama.py](./utils_ollama.py) |
+| HTML report assembly + Plotly charts | [report_builder.py](./report_builder.py) |
+
+### 📚 Deeper docs
+
+- **API** (endpoints, params, examples): [docs/API.md](./docs/API.md)
+- **Function reference** (inputs, parameters, outputs): [docs/REFERENCE.md](./docs/REFERENCE.md)
+- **Pipeline guide** (reproduce end-to-end): [docs/PIPELINE.md](./docs/PIPELINE.md)
+- **Codebook** (variables + join/time-window notes): [docs/CODEBOOK.md](./docs/CODEBOOK.md)
 - **Workflow diagram** (original): [workflow-diagram.md](./workflow-diagram.md)
